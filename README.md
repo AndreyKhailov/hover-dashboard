@@ -1,4 +1,4 @@
-# Clicker-game
+# DashBoard hover effect
 
 <p align="center"><img src="https://github.com/AndreyKhailov/hover-dashboard/blob/master/hover-dashBoard.gif" max-width="800" alt="gif"></p>
 
